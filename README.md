@@ -1,4 +1,3 @@
-
 🚀**Social Media Application with Chat Facility🔥 | React.js + Node.js + Express.js + CSS**🚀
 
 A feature-rich social media platform that enables users to share posts, upload images/videos, and engage in real-time chat. Built with a modern tech stack to ensure seamless communication and interaction.
